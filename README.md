@@ -1,0 +1,1 @@
+Projeto que simula uma única pessoa logada no sistema, não permite login simultâneo.
